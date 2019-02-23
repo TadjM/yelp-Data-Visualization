@@ -1,3 +1,2 @@
 # Yelp data visualization
-# Yelp-data-visualization 
-# yelp-Data-Visualization
+## yelp challenge shown in different visualizations
