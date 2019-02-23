@@ -1,0 +1,6 @@
+image: maven:3.3.9
+
+test:
+  stage: test
+  script:
+    - mvn test

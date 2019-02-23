@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+		<title>Nevada MapBox</title>
+		<style>
+			#map {
+				position: absolute;
+				width: 100%;
+				height: 100%;
+			}
+			svg {
+				position: absolute;
+				width: 100%;
+				height: 100%;
+			}
+        .lasso path {
+            stroke: rgb(80,80,80);
+            stroke-width:2px;
+        }
+
+        .lasso .drawn {
+            fill-opacity:.05 ;
+        }
+
+        .lasso .loop_close {
+            fill:none;
+            stroke-dasharray: 4,4;
+        }
+
+        .lasso .origin {
+            fill:#3399FF;
+            fill-opacity:.5;
+        }
+
+        .not_possible {
+            fill: rgb(200,200,200);
+        }
+
+        .possible {
+            fill: #EC888C;
+        }
+
+        .selected {
+            fill: steelblue;
+        }
+				.active {
+					background-color: grey;
+				}
+				#draw {
+					position: absolute;
+					margin: 20px 0px 0px 20px;
+					z-index: 1;
+				}
+		</style>
+	</head>
+
+	<body>
+		<script src="https://d3js.org/d3.v5.min.js"></script>
+		<script src="https://d3js.org/topojson.v2.min.js"></script>
+		<!-- <script src = "http://axc.net/code_libraries/lasso/lasso.min.js"></script> -->
+		<script src="../lasso/d3-lasso.min.js"></script>
+		<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.js'></script>
+		<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.css' rel='stylesheet' />
+
+		<link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.0.9/mapbox-gl-draw.css' type='text/css'/>
+
+
+		<button id="draw">draw circle </button>
+		<div id="map"></div>
+		<script src="script.js"></script>
+	</body>
+</html>

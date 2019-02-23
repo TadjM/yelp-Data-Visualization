@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	<title>Nevada Map</title>
+
+	<style type="text/css">
+		.background {
+			fill: none;
+			pointer-events: all;
+		}
+
+		.borders {
+			fill: none;
+			stroke: blue;
+			stroke-linejoin: round;
+			stroke-linecap: round;
+			pointer-events: none;
+		}
+
+		.feature {
+			fill: #aaa;
+			cursor: pointer;
+		}
+	</style>
+	
+</head>
+<body>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="https://d3js.org/topojson.v2.min.js"></script>
+
+	<div id="map"></div>
+	<script src="script.js"></script>
+</body>
+</html>

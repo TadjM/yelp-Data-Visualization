@@ -1,0 +1,34 @@
+{
+  "name": "temp_vis",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "d3": "^5.7.0",
+    "d3-lasso": "0.0.5",
+    "immutable": "^4.0.0-rc.12",
+    "lodash": "^4.17.11",
+    "mapbox-gl": "^0.51.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.1"
+  },
+  "homepage": "https://junllwu.github.io/SD_temporal_vis/",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

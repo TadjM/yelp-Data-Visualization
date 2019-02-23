@@ -1,0 +1,243 @@
+
+[
+	{
+		"month": "2018-01",
+		"average": 6,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 3,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 19
+	},
+	{
+		"month": "2018-02",
+		"average": 7,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 1,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-03",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 2,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-04",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 1,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-05",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-06",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-07",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-08",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-09",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-10",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-11",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2018-12",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-01",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-02",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-03",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-04",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-05",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-06",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-07",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-08",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-09",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-10",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-11",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	},
+	{
+		"month": "2019-12",
+		"average": 4,
+		"oneStarCount": 3,
+		"twoStarCount": 4,
+		"threeStarCount": 0,
+		"fourStarCount": 5,
+		"fiveStarCount": 4,
+		"total": 17
+	}
+]
